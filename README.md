@@ -47,6 +47,7 @@ This is my first website that shows my resume. Contains a little bio about mysel
 
 ### It is fun to play around with css
 ![plot](./images/image-1.png)
+![plot](./images/Sample%2005-07-2023%2023.08_2.jpg)
 # **Copyright**
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
