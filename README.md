@@ -21,6 +21,8 @@ This is my first website that shows my resume. Contains a little bio about mysel
 * A Github Account
 * Reference material where you will engage & learn new techniques
 * Technical languages: HTML- Used in structuring a page & CSS- Used in styling the page 
+* Plenty of research before starting a project.
+* colors
 ### **Setup Process**
 ---
 # **Github Pages**
@@ -43,6 +45,8 @@ This is my first website that shows my resume. Contains a little bio about mysel
 ##### https://htmlreference.io/
 ##### https://cssreference.io/
 
+### It is fun to play around with css
+![plot](./images/image-1.png)
 # **Copyright**
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
