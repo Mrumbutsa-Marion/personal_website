@@ -10,13 +10,14 @@
     background-position: center;
     background-size: cover;
 }
-navbar{
+nav{
     display: flex;
     padding-top: 37px;
     justify-content: space-between;
     padding-left: 98px;
     padding-right: 98px;
     align-items: center;
+    background-color: #333;
 }
 .mylogo{
     font-size: 45px;
@@ -25,7 +26,7 @@ navbar{
     font-weight: 650;
     cursor: pointer;
 }
-navbar ul li{
+nav ul li{
     display: inline-block;
     list-style-type: none;
     padding: 40px 60px;
